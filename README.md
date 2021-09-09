@@ -1,8 +1,6 @@
 # online-code-editor
 
-
-<img width="1786" alt="Screen Shot 2021-09-09 at 7 53 16 AM" src="https://user-images.githubusercontent.com/40044944/132709723-167f5f39-94a8-4e1c-ac61-66a24694df8f.png">
-
+<img width="1788" alt="Screen Shot 2021-09-09 at 7 54 53 AM" src="https://user-images.githubusercontent.com/40044944/132710264-159c039f-2706-4414-b1a7-f8fcb954e541.png">
 
 ---
 
