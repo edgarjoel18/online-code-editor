@@ -16,6 +16,7 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
+This is an interactive coding environment for javascript. It allows a user to describe their code in the text cell and write their code in the code cell. They are able to delete or add as many cells as they want. If I were given more time I would like to have this app save the text and code cells on their device.
 
 
 
