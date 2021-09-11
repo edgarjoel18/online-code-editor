@@ -47,7 +47,12 @@ const TextEditor: React.FC<TextEditorProps> = ({ cell }) => {
   return (
     <div className="text-editor card" onClick={() => setEditing(true)}>
       <div className="card-content">
-        <MDEditor.Markdown source={cell.content || "click to edit"} />
+        <MDEditor.Markdown
+          source={
+            cell.content ||
+            "click to take notes.\nUse show(component_name) in editor to show your component in previews"
+          }
+        />
       </div>
     </div>
   );
